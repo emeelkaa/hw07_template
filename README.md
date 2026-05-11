@@ -2,7 +2,7 @@
 
 ## Steps
 
-### 1. Create Repository on GitHub Classroom
+### 1. GitHub Repository Set Up
 - Accept the invitation link provided in the assignment material.
 
 ### 2. Create the Following Source Files
@@ -10,7 +10,7 @@
 - `sort.c`
 - `rankMain.c`
 - `Makefile`
-- `SName_Sno.txt` (e.g. `gildong_hong_202412345.txt`)
+- `SName_Sno.txt` (e.g. `gildong_hong_202612345.txt`)
 
 ### 3. Upload Your Sources to GitHub
 Use the following git commands in your terminal:
@@ -23,19 +23,18 @@ Use the following git commands in your terminal:
 ---
 
 ## Submission Requirements
-- Submit **1 PDF file** named: `{student_number}_{name}_HW07.pdf`
+- Submit a **PDF file** named: `{Sname}_{SNo}_HW07.pdf`
 - Your PDF must include:
-  - Your GitHub repository address
-  - Screenshot of your working directory
-  - Screenshot of your GitHub repository
-  - Screenshot of terminal for each git instruction
+  - Your GitHub repository URL
+  - A screenshot of showing succesfull `git commit` message
+  - A screenshot of showing succesfull `git push` message
 - **0 points** for missing PDF report
 
 ---
 
 ## Homework Policy
 - **Late penalty**: 20 points per 12 hours
-- **0 points** for anyone involved in:
-  - Copying from a fellow student
-  - Copying from the Web
-  - Working together with a group of students on this non-group assignment
+- Any form of cheating will result in 0 points for all parties involved, including:
+  - Copying from another student
+  - Copying from the web or ChatGPT/Claude/similar AI tools
+  - Collaborating on this individual assignment
