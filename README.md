@@ -23,12 +23,13 @@ Use the following git commands in your terminal:
 ---
 
 ## Submission Requirements
-- Submit a **PDF file** named: `{Sname}_{SNo}_HW07.pdf`
+- Submit a **PDF file** on Plato
+- File name format: `{Sname}_{SNo}_HW07.pdf`
 - Your PDF must include:
   - Your GitHub repository URL
   - A screenshot of showing succesfull `git commit` message
   - A screenshot of showing succesfull `git push` message
-- **0 points** for missing PDF report
+- Note: **0 points** will be given if the PDF is missing. 
 
 ---
 
